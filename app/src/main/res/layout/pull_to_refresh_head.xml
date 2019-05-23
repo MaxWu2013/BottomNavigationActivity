@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<LinearLayout  
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/head_contentLayout"  
+        android:layout_width="fill_parent"  
+        android:layout_height="wrap_content" 
+        android:gravity="center"
+        android:background="@color/rl_recharge_bg"        
+        android:padding="4dp"
+        android:orientation="horizontal"
+        > 
+        <LinearLayout 
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:gravity="center"
+            
+            >
+            <ImageView  
+                android:id="@+id/head_arrowImageView"  
+                android:layout_width="40dp"  
+                android:layout_height="40dp" 
+                android:layout_gravity="center"                 
+                android:src="@mipmap/ic_pulltorefresh_arrow" />
+
+	        <ProgressBar  
+	            android:id="@+id/head_progressBar"
+				style="@style/loading_small"	
+				android:visibility="gone"
+				/>
+            
+        </LinearLayout>  
+           
+  
+      
+  
+        <LinearLayout  
+            android:layout_width="wrap_content"  
+            android:layout_height="match_parent"  
+            android:gravity="center"  
+            android:orientation="vertical">  
+  
+            <TextView  
+                android:id="@+id/head_tipsTextView"  
+                android:layout_width="wrap_content"  
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/textsize_step_4"
+                android:text="@string/pull_to_refresh"  
+                android:textColor="@color/text_color_step_3"/>  
+  
+            <TextView  
+                android:id="@+id/head_lastUpdatedTextView"  
+                android:layout_width="wrap_content"
+                android:visibility="gone"
+                android:layout_height="wrap_content" 
+                android:textColor="@color/text_color_step_3"  
+                android:textSize="@dimen/textsize_step_4"
+                />  
+              
+        </LinearLayout>  
+ </LinearLayout>  
+

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    
+    <color name="window_background">#ffffff</color>
+    <color name="default_background">#FFF5F3EF</color>
+    
+    <color name="tab_bar_button_normal">#a0a0a0</color>
+    <color name="tab_bar_button_pressed">#0288d1</color>
+    <color name="tab_bar_border">#cfcfcf</color>
+    
+    <color name="bottom_bar_button_left">#000000</color>
+    <color name="bottom_bar_button_right">#0288d1</color>
+    
+    <color name="disable">#c7c7c7</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#ffff7800</color>
+    <color name="grey">#ffbbbbbb</color>
+    <color name="my_deposite">#00aeef</color>
+    <color name="my_account_balance">#999999</color>
+    <color name="my_account_balance_text">#666666</color>
+    <color name="my_bottom_normal">#eeeeee</color>
+    <color name="my_bottom_press">#f5f5f5</color>
+    <color name="text_press1">#a0a0a0</color>
+    <color name="text_press2">#00aeef</color>
+    <color name="text_press">#0288d1</color>    
+    <color name="btn_disable_bg">#cccccc</color>
+    <color name="text_blue">#0288d1</color>
+    <color name="text_green">#4caf50</color>
+    <color name="text_yellow">#ffffcd40</color>
+    <color name="title_bar_background">#ff0288d1</color>
+    <color name="button_normal">#ffffff</color>
+    <color name="button_pressed">#ffebebeb</color>
+    
+    <color name="clickable_item_up">#ffffff</color>
+    <color name="clickable_item_down">#ffebebeb</color>
+    <color name="clickable_item_border">#eeeeee</color>
+    <!--  背景色-->
+    <!-- 透明颜色 -->
+    <color name="bg_step_0">#00000000</color>
+    <!-- 一般背景灰 -->
+    <color name="bg_step_1">#FFF0F5F7</color>
+    <!-- 淡蓝色 -->
+    <color name="bg_step_2">#FF67B8E3</color>
+    <!-- 灰色背景 -->
+    <color name="bg_step_3">#FFE3E3E3</color>
+    <!-- 半透明色 -->
+    <color name="bg_step_4">#64000000</color>
+    <!-- 灰色线 -->
+    <color name="bg_step_5">#ffe4e4e4</color>
+    <!-- 浅浅的灰色 -->
+    <color name="bg_step_6">#FFF5F3EF</color>
+    <!-- 橙色 -->
+    <color name="bg_orange">#FFFF6600</color>
+    <!-- button 的背景色 -->
+    <!-- 浅蓝色 -->
+    <color name="bt_step_1">#ff2c9bf3</color>
+    <!-- 浅绿色 -->
+    <color name="bt_step_2">#ff66bb6a</color>
+    <!-- 浅灰色  -->
+    <color name="text_color_step_1">#ffb9b9b9</color>
+    <!-- 深灰色 -->
+    <color name="text_color_step_2">#ff646464</color>
+    <!-- 黑色 -->
+    <color name="text_color_step_3">#ff1e1e1e</color>
+    
+    <!-- 纯白 -->
+    <color name="text_color_step_4">#ffffffff</color>
+    <!-- 浅白 -->
+    <color name="text_color_step_5">#ffb0d0eb</color>
+    <!-- 红色字体 -->
+    <color name="text_color_step_6">#ffcd4342</color>
+    <!-- 字体灰色 -->
+    <color name="text_color_step_7">#676767</color>
+    
+    <!-- 浅绿色 -->
+    <color name="add_bank_text_color">#00b8d4</color>
+    <!-- 浅白色 --> 
+    <color name="text_shallow_white">#b8d4ed</color>       
+    <!-- 深黄色 --> 
+    <color name="text_product_yellow">#ffcd40</color>
+    
+    <color name="bottom_bar_button_text">#0288d1</color>
+
+	<color name="voucher_text_color">#5e5e5e</color>
+    <color name="voucher_background">#f3f3f3</color>    
+    
+    <color name="transfer_background">#e6ebef</color>
+    <!-- 转让tabhost文字颜色 -->
+    <color name="text_transfer">#333333</color>
+    <color name="button_bg_transfer">#DEDEDE</color> 
+       
+    <color name="translucent">#80000000</color>
+    <color name="text_light_blue">#62b3df</color>
+    <!-- 暗红色 -->
+    <color name="text_light_red">#d15655</color>
+    <!-- 浅灰色-->
+    <color name="text_product_middle">#757575</color>
+    <!-- 浅灰色-->
+    <color name="text_product_bottom">#9a9a9a</color>
+    
+    <color name="text_light_white">#9acfed</color>
+    <!-- 添加充值银行卡布局背景 -->
+    <color name="rl_recharge_bg">#f7f7f7</color> 
+    <!-- 认购文字浅灰色 -->
+    <color name="text_sub_money">#999999</color>   
+    
+    <color name="financing_background">#0288d1</color>
+    
+    <color name="grey_line">#e9e9e9</color>
+    
+    <color name="financing_grey_text_color">#666</color>
+    
+    <color name="financing_hint_grey_text_color">#b4b4b4</color>
+    
+    <color name="transparent">#00000000</color>
+    
+    <color name="financing_light_gray_text_color">#a4a4a4</color>
+    
+    <color name="financing_prompt_red_text_color">#cd4342</color>
+    
+    <color name="financing_detail_text_color1">#a8ccea</color>
+    
+    <color name="financing_detail_list_divider_color">#e5e5e5</color>
+    
+    <color name="blue_line_color">#91cdf4</color>
+    
+    <color name="orange_text_color">#f4a01c</color>
+    <!-- 积分商城文字深黄色-->
+    <color name="integral_text_color">#ff8400</color>
+    
+    
+    <!-- 88精彩活动标题 -->
+    <color name="wonderful_title_text_color">#444444</color>
+    <!-- 88精彩活动时间 -->
+    <color name="wonderful_time_text_color">#666666</color>
+    <color name="info_bg">#a5a5a5</color>
+    
+    <color name="transfer_gray_text_color">#585858</color>
+    <drawable name="white">#fff</drawable>
+    <drawable name="text_shallow">#b8d4ed</drawable>
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="shipping_listview_divider">#dcdcdc</drawable>
+    <drawable name="shipping_bottom_bgcolor">#eaeaea</drawable>
+    <drawable name="shipping_address_small_text_color">#717171</drawable>
+    <drawable name="my_score_line">#d3d3d3</drawable>
+    <drawable name="detail_score_item_text_color">#767676</drawable>
+    <drawable name="score_orange_text_color">#ff7e00</drawable>
+    <drawable name="investment_bg">#f4f4f4</drawable>
+    <drawable name="investment_bottom_text_color">#5c5c5c</drawable>
+    <drawable name="investment_list_name_text_color">#303030</drawable>
+    <drawable name="excircle_progress_color">#d9d9d9</drawable>
+    
+    <color name="investment_list_name_text_color">#303030</color>
+    <color name="detail_score_item_text_color">#767676</color>
+    <color name="score_orange_text_color">#ff7e00</color>
+    
+    <color name="score_edit_hint_text_color">#888888</color>
+    
+    <color name="bottom_normal_text_color">#f5f6f6</color>
+    
+    <color name="bottom_background">#434a54</color>
+    <!-- 产品详情信息分界线 -->
+    <color name="product_desc_line">#2c9bd7</color>
+   
+    
+    <color name="gestures_title_text_color">#cbe0f2</color>
+    <color name="gestures_bottom_text_color">#156a99</color>
+</resources>

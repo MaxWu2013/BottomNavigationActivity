@@ -1,0 +1,41 @@
+<resources>  
+    <declare-styleable name="RoundProgressBar">    
+        <attr name="roundColor" format="color"/>  
+        <attr name="roundProgressColor" format="color"/>  
+        <attr name="roundWidth" format="dimension"></attr>  
+        <attr name="textColor" format="color" />    
+        <attr name="textSize" format="dimension" />   
+        <attr name="max" format="integer"></attr>   
+        <attr name="textIsDisplayable" format="boolean"></attr>  
+        <attr name="style">  
+            <enum name="STROKE" value="0"></enum>  
+            <enum name="FILL" value="1"></enum>  
+        </attr>  
+    </declare-styleable>
+    <declare-styleable name="FlowLayout">
+        <attr name="hspace" format="dimension"/>
+        <attr name="vspace" format="dimension"/>
+    </declare-styleable>
+    <declare-styleable name="FlowLayoutParam">
+        <attr name="layout_space" format="dimension"/>
+    </declare-styleable>
+        <declare-styleable name="TextViewPlus">
+        <attr name="left_height" format="dimension" />
+        <attr name="left_width" format="dimension" />
+        <attr name="right_height" format="dimension" />
+        <attr name="right_width" format="dimension" />
+        <attr name="top_height" format="dimension" />
+        <attr name="top_width" format="dimension" />
+        <attr name="bottom_height" format="dimension" />
+        <attr name="bottom_width" format="dimension" />
+    </declare-styleable>   
+    
+    <declare-styleable name="circleProgressView">
+    	<attr name="secondProgressColor" format="color"></attr>
+    	<attr name="progressColor" format="color"></attr>
+    	<attr name="strokeWidth" format="dimension"></attr>
+    	<attr name="radius" format="dimension"></attr>
+    	<attr name="startAngle" format="float"></attr>
+    	<attr name="progress" format="integer"></attr>
+    </declare-styleable>
+</resources> 

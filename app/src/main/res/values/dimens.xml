@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    
+    <!-- 文字大小：16作为正文，12作为非重要提示文字，20作为标题栏 -->
+    <dimen name="textsize_step_1">12sp</dimen>
+    <dimen name="textsize_step_2">14sp</dimen>
+    <dimen name="textsize_step_3">16sp</dimen>
+    <dimen name="textsize_step_4">18sp</dimen>
+    <dimen name="textsize_step_5">20sp</dimen>
+    <dimen name="textsize_step_6">26sp</dimen>
+    
+    <dimen name="select_drop_item_pading">7dip</dimen> 
+    <dimen name="select_drop_layout_width">110dip</dimen>
+    <dimen name="select_drop_layout_height">35dip</dimen>
+    <dimen name="select_drop_content_top_padding">5dip</dimen>
+</resources>
